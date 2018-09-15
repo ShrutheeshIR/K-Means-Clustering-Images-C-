@@ -1,0 +1,3 @@
+/home/shrutheeshir/Desktop/opencvdemo/KMeans-Clustering/Linux/OPENCVTest/CMakeFiles/edit_cache.dir
+/home/shrutheeshir/Desktop/opencvdemo/KMeans-Clustering/Linux/OPENCVTest/CMakeFiles/rebuild_cache.dir
+/home/shrutheeshir/Desktop/opencvdemo/KMeans-Clustering/Linux/OPENCVTest/CMakeFiles/Source.dir
